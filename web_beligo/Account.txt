@@ -1,0 +1,11 @@
+Admin:
+admin123
+admin123
+
+Kasir:
+kasir123
+kasir123
+
+Manager:
+manager
+manager123
